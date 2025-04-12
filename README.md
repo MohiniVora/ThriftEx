@@ -114,20 +114,12 @@ bash
 Copy
 Edit
 node app.js
-📸 Screenshots
-(Add screenshot images inside a screenshots/ folder and link them below)
+
 
 markdown
 Copy
 Edit
-### 🛍️ Buyer Dashboard
-![Buyer Dashboard](./screenshots/buyer-dashboard.png)
 
-### 📈 Seller Analytics
-![Seller Dashboard](./screenshots/seller-dashboard.png)
-
-### 🧾 Admin Panel
-![Admin Dashboard](./screenshots/admin-dashboard.png)
 ✨ Future Improvements
 Mobile responsiveness
 
@@ -144,19 +136,13 @@ Razorpay
 
 Cloudinary
 
-Made with 💚 by Mohini Vora & Insiya Arsiwala 
+Made with 💚 by Mohini Vora 
 
 yaml
 Copy
 Edit
 
 ---
-
-Let me know if you'd like me to:
-- Automatically save this to a file (e.g., `README.md`)
-- Help add actual screenshot images
-- Customize this further for deployment or a portfolio showcase page
-
 
 
 
